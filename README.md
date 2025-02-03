@@ -10,7 +10,7 @@ Arduino Uno processes information and outputs controll signals to L298 drive.
 
 Here, you can see the complete configuration of our system.
 
-![{A5214897-A1DF-4243-B8E3-90C9788BA4BF}](https://github.com/user-attachments/assets/885832d3-7cfd-456a-8447-e0bae7764bad)
+<img src="https://github.com/user-attachments/assets/885832d3-7cfd-456a-8447-e0bae7764bad" width="500"/>
 
 ## This project contains:
 - IR approximity sensor
