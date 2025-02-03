@@ -6,7 +6,8 @@ We use IR FC51 infrared sensor for getting speed feedback from propellers attach
 
 Arduino Uno processes information and outputs controll signals to L298 drive.
 
-![{21FA9E97-6FA5-456C-B6A4-571F6D325EF1}](https://github.com/user-attachments/assets/eda08de3-e0d7-4142-952e-e60b7378017b, width=300)
+![{21FA9E97-6FA5-456C-B6A4-571F6D325EF1}](https://github.com/user-attachments/assets/eda08de3-e0d7-4142-952e-e60b7378017b)
+<img src="https://github.com/user-attachments/assets/eda08de3-e0d7-4142-952e-e60b7378017b" width="200"/>
 
 Here, you can see the complete configuration of our system.
 
