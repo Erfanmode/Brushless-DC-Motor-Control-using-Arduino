@@ -1,4 +1,4 @@
-# Brushless DC Motor PID Controller by Arduino Uno
+# Brushless DC Motor PID Controller by Arduino UNO - Fall 2023
 In this project, the course project of Applied Electronics at SUT, we control speed of a brushless DC motor using PID controller.
 We use IR FC51 infrared sensor for getting speed feedback from propellers attached to the DC motor. Huge shout out to my dear friend [Reyhane Nikoobayan](https://github.com/ReyhaneNikoobayan) for her contributions in this project.
 
@@ -13,6 +13,8 @@ Here, you can see the complete configuration of our system.
 <img src="https://github.com/user-attachments/assets/885832d3-7cfd-456a-8447-e0bae7764bad" width="500" class="center"/>
 
 ## This project contains:
+- `main_serial` - Source code for Arduino IDE using serial as user interface
+- `main_wifi` - Source code for Arduino IDE using wifi connection and an android system as user interface
 - IR approximity sensor
 - DC motor
 - PID tuning on hardware
