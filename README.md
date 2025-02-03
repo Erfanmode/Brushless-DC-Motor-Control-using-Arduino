@@ -1,4 +1,5 @@
-In this project, the course project of Applied Electronics at SUT, we control speed of a brushed DC motor using PID controller.
+# Brushless DC Motor PID Controller by Arduino Uno
+In this project, the course project of Applied Electronics at SUT, we control speed of a brushless DC motor using PID controller.
 We use IR FC51 infrared sensor for getting speed feedback from propellers attached to the DC motor.
 
 ![{2D355AFF-39DF-425B-8C8F-669D0468A7CB}](https://github.com/user-attachments/assets/95526af3-c7f4-4021-9374-ed07e63f4345)
@@ -10,5 +11,6 @@ Arduino Uno processes information and outputs controll signals to L298 drive.
 Here, you can see the complete configuration of our system.
 
 ![{A5214897-A1DF-4243-B8E3-90C9788BA4BF}](https://github.com/user-attachments/assets/885832d3-7cfd-456a-8447-e0bae7764bad)
-![{C6FFF70E-8213-41B5-A7D4-98BE913E0ECE}](https://github.com/user-attachments/assets/257a93f6-95e5-4cb6-aaaa-faaa47dff7b5)
+
+
 
